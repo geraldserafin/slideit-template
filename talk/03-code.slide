@@ -1,0 +1,20 @@
+<row>
+  <col>
+    <h2>Code that moves</h2>
+    <p>Press → and the code changes: what stays, stays; what moved, glides.</p>
+  </col>
+  <code lang=ts>
+    <frame>
+      function total(items: number[]) {
+        let sum = 0;
+        for (const x of items) sum += x;
+        return sum;
+      }
+    </frame>
+    <frame>
+      function total(items: number[]) {
+        return items.reduce((sum, x) => sum + x, 0);
+      }
+    </frame>
+  </code>
+</row>

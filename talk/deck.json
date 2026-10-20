@@ -1,0 +1,9 @@
+{
+  "title": "My talk",
+  "author": "",
+  "theme": "dark",
+  "footer": {
+    "left": "My talk",
+    "right": "{slide} / {slides}"
+  }
+}

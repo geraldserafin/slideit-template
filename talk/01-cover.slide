@@ -1,0 +1,10 @@
+<slide>
+  layout: cover
+  halign: center
+  valign: center
+</slide>
+
+<h1>My talk</h1>
+<p>A subtitle, or the date and where you give the talk</p>
+
+<notes>Welcome everyone. Notes like this one show in the presenter window (press p).</notes>

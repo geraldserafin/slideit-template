@@ -1,0 +1,9 @@
+<h2>Bullets, one click each</h2>
+
+<p>Everything outside a <c><step></c> is there from the start.</p>
+
+<ul steps>
+  <li>the first point</li>
+  <li>the second point</li>
+  <li>the third point</li>
+</ul>
